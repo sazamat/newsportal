@@ -1,3 +1,5 @@
+## This is Newsportal written in PHP Laravel framework, which has CRUD functionality to edit,create,delete news in MySQL database. So, it uses Tailwind and Bootsrap
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
